@@ -26,7 +26,7 @@ tBodyGyro         | fBodyGyro-XYZ          |
 
 To do our analysis, we have selected the set of variables that were estimated : the mean signals and standard deviation signals. The following list is the used signals : 
 
--------------------------------|--------------------------------|--------------------------------|-----------------------------
+------------------------------ | ------------------------------ | ------------------------------ | ----------------------------
 tBodyAcc-mean()-X              | tBodyAcc-mean()-Y              | tBodyAcc-mean()-Z              | tBodyAcc-std()-X               
 tBodyAcc-std()-Y               | tBodyAcc-std()-Z               | tGravityAcc-mean()-X           | tGravityAcc-mean()-Y           
 tGravityAcc-mean()-Z           | tGravityAcc-std()-X            | tGravityAcc-std()-Y            | tGravityAcc-std()-Z            
@@ -37,7 +37,7 @@ tBodyGyroJerk-mean()-X         | tBodyGyroJerk-mean()-Y         | tBodyGyroJerk-
 tBodyGyroJerk-std()-Y          | tBodyGyroJerk-std()-Z          | tBodyAccMag-mean()             | tBodyAccMag-std()              
 tGravityAccMag-mean()          | tGravityAccMag-std()           | tBodyAccJerkMag-mean()         | tBodyAccJerkMag-std()          
 tBodyGyroMag-mean()            | tBodyGyroMag-std()             | tBodyGyroJerkMag-mean()        | tBodyGyroJerkMag-std()         
-fBodyAcc-mean()-X              | fBodyAcc-mean()-Y              | fBodyAcc-mean()-Z              | fBodyAcc-std()-X               
+fBodyAcc-mean()-               | fBodyAcc-mean()-Y              | fBodyAcc-mean()-Z              | fBodyAcc-std()-X               
 fBodyAcc-std()-Y               | fBodyAcc-std()-Z               | fBodyAcc-meanFreq()-X          | fBodyAcc-meanFreq()-Y          
 fBodyAcc-meanFreq()-Z          | fBodyAccJerk-mean()-X          | fBodyAccJerk-mean()-Y          | fBodyAccJerk-mean()-Z          
 fBodyAccJerk-std()-X           | fBodyAccJerk-std()-Y           | fBodyAccJerk-std()-Z           | fBodyAccJerk-meanFreq()-X      
