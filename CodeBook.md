@@ -26,6 +26,7 @@ tBodyGyro         | fBodyGyro-XYZ          |
 
 To do our analysis, we have selected the set of variables that were estimated : the mean signals and standard deviation signals. The following list is the used signals : 
 
+a | b | c | d
 ------------------------------ | ------------------------------ | ------------------------------ | ----------------------------
 tBodyAcc-mean()-X              | tBodyAcc-mean()-Y              | tBodyAcc-mean()-Z              | tBodyAcc-std()-X               
 tBodyAcc-std()-Y               | tBodyAcc-std()-Z               | tGravityAcc-mean()-X           | tGravityAcc-mean()-Y           
